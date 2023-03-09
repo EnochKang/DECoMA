@@ -1,0 +1,2 @@
+DECoMA version 1.0.7 is uploaded to Github on 09 March, 2023.
+DECoMA version 1.0.0 has been created on 14 June, 2022. Released file will show the first two part of version number only (i.e. 1.0).
